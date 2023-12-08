@@ -101,6 +101,10 @@
 
 # COMMAND ----------
 
+my_name = "Jinhee Choi"
+
+# COMMAND ----------
+
 assert my_name is not None, "Name is still None"
 print(my_name)
 
@@ -140,6 +144,15 @@ display(example_df)
 # MAGIC * A header
 # MAGIC * Bullet points
 # MAGIC * A link (using your choice of HTML or Markdown conventions)
+
+# COMMAND ----------
+
+# MAGIC %md
+# MAGIC
+# MAGIC # header
+# MAGIC #
+# MAGIC - Bullet points
+# MAGIC
 
 # COMMAND ----------
 
